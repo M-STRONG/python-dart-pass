@@ -28,24 +28,6 @@ def evenodd(num):
 
             break
 
-    
-
-    '''if 0< num <= 10:
-
-        for i in range(num):
-
-            num=int(input('Enter X value:'))
-
-            if num%2==0 :
-
-                print('even')
-
-            else:
-
-                print('odd')
-
-    else:
-
-     1  print('agine')'''
+   
 
 evenodd(8)
